@@ -1,15 +1,15 @@
-﻿library,address_1,address_2,address_3,postcode,closing
-Ashburton Library,Ashburton Learning Village, Shirley Road, Croydon, CR9 7AL,FALSE
-Bradmore Green Library,Bradmore Way, Coulsdon , Croydon,CR5 1PE,TRUE
-Broad Green Library,89 Canterbury Road,, Croydon,CR0 3HA,TRUE
-New Addington Library,Central Parade, New Addington,, CR0 0JD,FALSE
-Central Library,Croydon Clocktower, Katharine Street, Croydon, CR9 1ET,FALSE
-Norbury Library,Beatrice Avenue, Norbury,, SW16 4UW,FALSE
-Coulsdon Library,Brighton Road, Coulsdon,, CR5 2NH,FALSE
-Purley Library,Banstead Road, Purley,, CR8 3YH,FALSE
-Sanderstead Library,Farm Fields,, South Croydon, CR2 0HL,TRUE
-Selsdon Library,Selsdon Library, Addington Road, Selsdon, CR2 8LA,FALSE
-Shirley Library,Wickham Road / Hartland Way, Shirley, Croydon, CR0 8BH,TRUE
-South Norwood Library,Lawrence Road, South Norwood,, SE25 5AA,TRUE
-Thornton Heath Library,190 Brigstock Road, Thornton Heath,, CR7 7JB,FALSE
-Upper Norwood Library,39 Westow Hill,, London, SE19 1TQ,FALSE
+library,address_1,address_2,address_3,postcode,Latitude,Longitude,closing
+New Addington Library,Central Parade, New Addington,,CR0 0JD,51.34103,-0.01409,FALSE
+Broad Green Library,89 Canterbury Road,, Croydon,CR0 3HA,51.38576,-0.11658,TRUE
+Shirley Library,Wickham Road / Hartland Way, Shirley, Croydon,CR0 8BH,51.37513,-0.04485,TRUE
+Sanderstead Library,Farm Fields,, South Croydon,CR2 0HL,51.34079,-0.08352,TRUE
+Selsdon Library,Selsdon Library, Addington Road, Selsdon,CR2 8LA,51.34228,-0.06327,FALSE
+Bradmore Green Library,Bradmore Way, Coulsdon , Croydon,CR5 1PE,51.30853,-0.12657,TRUE
+Coulsdon Library,Brighton Road, Coulsdon,,CR5 2NH,51.32,-0.13869,FALSE
+Thornton Heath Library,190 Brigstock Road, Thornton Heath,,CR7 7JB,51.39739,-0.10424,FALSE
+Purley Library,Banstead Road, Purley,,CR8 3YH,51.33914,-0.11869,FALSE
+Central Library,Croydon Clocktower, Katharine Street, Croydon,CR9 1ET,51.37191,-0.09953,FALSE
+Ashburton Library,Ashburton Learning Village, Shirley Road, Croydon,CR9 7AL,51.38307,-0.06311,FALSE
+Upper Norwood Library,39 Westow Hill,, London,SE19 1TQ,51.41988,-0.08212,FALSE
+South Norwood Library,Lawrence Road, South Norwood,,SE25 5AA,51.39691,-0.07748,TRUE
+Norbury Library,Beatrice Avenue, Norbury,,SW16 4UW,51.40508,-0.12287,FALSE
